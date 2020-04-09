@@ -1,1 +1,1 @@
-# rocketmqconsumer  测试rocketmq的消费端项目
+# rocketmqconsumer  以jar包方式封装rocketmq的服务端项目demo
